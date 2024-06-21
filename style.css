@@ -1,4 +1,4 @@
-{
+*{
     margin: 0;
     padding: 0;
 }
@@ -20,7 +20,7 @@
 
 .cabecalho-lista-item {
     display: inline-block;
-    margin: 0 16px;
+    margin: -10px 250px;
     font-size: 24px;
 }
 
@@ -34,7 +34,7 @@
     display: flex;
     justify-content: center;
     align-items: center;
-    padding: 24px 0;
+    padding: 24px 10px;
     font-family:"poppins",sans-serif;
 }
 
@@ -49,11 +49,11 @@ text-align: center;
 }
 
 .escola-imagem{
-    width: 200px;
+    width: 250px;
 }
 
 .estudante-icone{
-    width: 35px;
+    width: 85px;
 }
  .estudante-div{
     text-align: center;
@@ -81,8 +81,10 @@ text-align: center;
     text-align: center;
  }
 
- .rodape{
-    height: ;
+ .rodape-texto{
+    height:blue;
+    font-size: 10px;
+    padding: 12px 12px;
  }
 
  
